@@ -1,0 +1,93 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgba(222, 216, 216, 0.553);
+}
+
+.div0{
+    background-color:white;
+    border-radius: 12px;
+    margin:100px 35%;
+    padding:40px;
+    width: 400px;
+    display:grid;
+    
+}
+.facebook
+{
+    color:rgb(7, 66, 160);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    
+}
+.createnew{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quick
+{
+
+    font-weight: bold;
+    color:rgb(83, 81, 81);
+    font-family: Arial, Helvetica, sans-serif
+}
+.div1,.div2,.div3,.div4{
+    display:grid;
+    place-items: center;
+    
+
+}
+.surname,.firstname{
+    height:40px;
+    width:201px;
+    border-radius:5px;
+    border-style:double;
+
+}
+.mob_email,.pass
+{
+    width:415px;
+    height:40px;
+    border-radius: 5px;
+    border-style: double;
+    
+}
+
+.submit{
+
+    background-color: rgb(24, 190, 24);
+    color:white;
+    border:none;
+    width:150px;
+    height:40px;
+    border-radius: 7px;
+    font-size: large;
+    font-weight: 700;
+
+}
+.div5{
+    
+    display: grid;
+    place-content: center;
+
+}
+.terms
+{
+    font-size: 12px;
+    place-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:grey;
+}
+
+a{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(7, 66, 160);
+    text-decoration: dashed;
+    
+    
+
+}
